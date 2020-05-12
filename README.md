@@ -1,0 +1,2 @@
+# 2048
+2048 Game is developed using HTML, CSS, and JavaScript. Talking about the gameplay, it’s one of the most addictive games. All the playing methods are too simple just like the real one. All you have to do is move numbers on a grid to merge them to form the number 2048; after all, you can keep on playing the game by creating larger numbers. In each move, a new number of displays (2 or 4). The player has to move the numbers using arrow keys and try to collide the same two numbers which create a new number with the total sum of the two numbers.
